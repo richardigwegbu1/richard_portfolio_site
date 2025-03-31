@@ -1,4 +1,4 @@
-# Richard Igwegbu – Linux | Cloud | DevOps Consultant
+# Richard Igwegbu – Linux & DevOps Consultant
 
 ![Deploy](https://github.com/richardigwegbu1/richard_portfolio_site/actions/workflows/deploy.yml/badge.svg)
 
