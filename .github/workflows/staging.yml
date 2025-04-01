@@ -1,4 +1,4 @@
-name: Deploy Staging Site from dev Branch
+name: Deploy to Staging GitHub Pages
 
 on:
   push:
@@ -15,10 +15,10 @@ jobs:
       - name: Checkout dev branch
         uses: actions/checkout@v3
 
-      - name: Deploy to GitHub Pages (Staging)
+      - name: Deploy to Staging Site Repo
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          external_repository: richardigwegbu1/richard_portfolio_site_staging
           publish_dir: .
-          destination_dir: dev  # Serve from /dev subpath
+          github_token: ${{ secrets.GITHUB_TOKEN }}
 
