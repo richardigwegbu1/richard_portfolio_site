@@ -20,5 +20,5 @@ jobs:
         with:
           external_repository: richardigwegbu1/richard_portfolio_site_staging
           publish_dir: .
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          personal_token: ${{ secrets.PERSONAL_TOKEN }}
 
