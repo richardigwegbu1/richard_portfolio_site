@@ -1,10 +1,4 @@
-<section class="download-link">
-  <h2>Download Student Guide</h2>
-  <p>
-    Download the updated UTA student CI/CD portfolio guide with cover page:<br>
-    <a href="UTA_Student_CI_CD_Portfolio_Guide_With_Cover_Recreated.pdf" download>
-      UTA Student CI/CD Portfolio Guide (PDF)
-    </a>
-  </p>
-</section>
+<a href="UTA_Student_CI_CD_Portfolio_Guide_Working.pdf" download>
+  Download UTA Student CI/CD Portfolio Guide (PDF)
+</a>
 
